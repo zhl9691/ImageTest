@@ -1,0 +1,5 @@
+{
+  "name": "影像征象识别测试",
+  "description": "供学生识别6张图片的征象，并提交答案查看结果。",
+  "requestFramePermissions": []
+}
